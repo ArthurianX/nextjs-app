@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Demo blog app deployed on Vercel at [nextjs-app-weld](https://nextjs-app-weld.vercel.app/)
